@@ -1,0 +1,22 @@
+/* .woman-pr img:hover{
+    transform: scale(1.1);
+    transition: all 0.5s;
+} */
+.woman-pr:hover{
+    transform: scale(0.95);
+    transition: 0.5s;
+}
+
+.woman-prs{
+    overflow: hidden;
+}
+.card:hover img{
+    transform: scale(1.15);
+    transition: 0.5s;
+}
+.card:hover p{
+    color: red;
+}
+.card{
+    overflow: hidden;
+}

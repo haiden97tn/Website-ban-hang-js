@@ -1,0 +1,23 @@
+.btn_viewAll {
+    background-color: rgb(56, 56, 255);
+    color: white;
+    border-radius: 5px;
+    margin-left: 46%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.btn_viewAll:hover {
+    background-color: black;
+    transition: 0.5s;
+}
+
+.img1 img:hover {
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+
+.nav a:hover {
+    color: white;
+}
+
